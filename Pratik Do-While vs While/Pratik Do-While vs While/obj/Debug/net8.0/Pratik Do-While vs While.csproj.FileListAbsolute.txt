@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\bin\Debug\net8.0\Pratik Do-While vs While.exe
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\bin\Debug\net8.0\Pratik Do-While vs While.deps.json
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\bin\Debug\net8.0\Pratik Do-While vs While.runtimeconfig.json
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\bin\Debug\net8.0\Pratik Do-While vs While.dll
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\bin\Debug\net8.0\Pratik Do-While vs While.pdb
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.AssemblyInfo.cs
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.dll
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\refint\Pratik Do-While vs While.dll
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.pdb
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\Pratik Do-While vs While.genruntimeconfig.cache
+C:\Users\asus\Desktop\Pratik Do-While vs While\Pratik Do-While vs While\obj\Debug\net8.0\ref\Pratik Do-While vs While.dll
