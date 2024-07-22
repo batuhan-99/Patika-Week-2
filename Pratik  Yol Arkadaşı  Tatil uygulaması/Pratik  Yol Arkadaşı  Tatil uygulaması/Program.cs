@@ -9,7 +9,7 @@ namespace Yolarkadasi
 
             bool devam = true;
             int i ;
-            int toplam=0 ;
+            int toplam;
             string tatil = "";
             string arac = "";
             while (devam)
