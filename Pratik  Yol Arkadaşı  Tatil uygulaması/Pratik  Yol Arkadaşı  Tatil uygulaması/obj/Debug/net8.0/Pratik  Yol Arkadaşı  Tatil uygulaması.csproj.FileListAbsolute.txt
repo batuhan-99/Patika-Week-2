@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.AssemblyInfo.cs
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\bin\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.exe
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\bin\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.deps.json
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\bin\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.runtimeconfig.json
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\bin\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.dll
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\bin\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.pdb
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.dll
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\refint\Pratik  Yol Arkadaşı  Tatil uygulaması.dll
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.pdb
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\Pratik  Yol Arkadaşı  Tatil uygulaması.genruntimeconfig.cache
+C:\Users\asus\Desktop\Pratik  Yol Arkadaşı  Tatil uygulaması\Pratik  Yol Arkadaşı  Tatil uygulaması\obj\Debug\net8.0\ref\Pratik  Yol Arkadaşı  Tatil uygulaması.dll
