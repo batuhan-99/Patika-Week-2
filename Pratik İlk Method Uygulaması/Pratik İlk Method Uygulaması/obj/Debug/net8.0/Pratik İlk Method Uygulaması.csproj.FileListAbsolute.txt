@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\bin\Debug\net8.0\Pratik İlk Method Uygulaması.exe
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\bin\Debug\net8.0\Pratik İlk Method Uygulaması.deps.json
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\bin\Debug\net8.0\Pratik İlk Method Uygulaması.runtimeconfig.json
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\bin\Debug\net8.0\Pratik İlk Method Uygulaması.dll
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\bin\Debug\net8.0\Pratik İlk Method Uygulaması.pdb
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.AssemblyInfo.cs
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.dll
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\refint\Pratik İlk Method Uygulaması.dll
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.pdb
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\Pratik İlk Method Uygulaması.genruntimeconfig.cache
+C:\Users\asus\Desktop\Pratik İlk Method Uygulaması\Pratik İlk Method Uygulaması\obj\Debug\net8.0\ref\Pratik İlk Method Uygulaması.dll
